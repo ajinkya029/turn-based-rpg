@@ -87,13 +87,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/turn-based-rpg-vite.git
+git clone https://github.com/ajinkya029/turn-based-rpg.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd turn-based-rpg-vite
+cd turn-based-rpg
 ```
 
 3. Install dependencies:
